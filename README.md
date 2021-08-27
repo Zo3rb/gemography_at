@@ -4,6 +4,6 @@
 
 
 ### Libs
--axios: for performing fetching data(network requests).
--react_bootstrap: for responsiveness and component snippets ready to go for The user interface.
--moment: for Parsing, Manipulating the Date object and saving a ton of code.
+*axios: for performing fetching data(network requests).
+*react_bootstrap: for responsiveness and component snippets ready to go for The user interface.
+*moment: for Parsing, Manipulating the Date object and saving a ton of code.
